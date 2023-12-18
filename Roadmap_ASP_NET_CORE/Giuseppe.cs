@@ -3,7 +3,7 @@ namespace Roadmap_ASP_NET_CORE;
 
 public static class Giuseppe
 {
-    public static string Name => "COLOQUE SEU NOME";
+    public static string Name => "Giuseppe";
     public static List<(string, int)> Skills => new List<(string, int)>{
         ("Fundamentos de C#", 4),
         ("Habilidades Gerais de Desenvolvimento", 4),
